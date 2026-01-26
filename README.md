@@ -1,6 +1,4 @@
-<a href="https://a.co/d/eY75l4q" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center;">
-  <img src="https://m.media-amazon.com/images/I/61QO+j1vbKL._SY466_.jpg" alt="Portada del libro Testing en .NET" style="max-width: 300px; width: 100%; height: auto; cursor: pointer;">
-</a>
+[![Portada del libro Testing en .NET](https://m.media-amazon.com/images/I/61QO+j1vbKL._SY466_.jpg)](https://a.co/d/eY75l4q)
 
 > El libro **Testing en .NET** ya está disponible.
 

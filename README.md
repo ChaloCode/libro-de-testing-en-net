@@ -1,3 +1,15 @@
+<a href="https://a.co/d/eY75l4q" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center;">
+  <img src="https://m.media-amazon.com/images/I/61QO+j1vbKL._SY466_.jpg" alt="Portada del libro Testing en .NET" style="max-width: 300px; width: 100%; height: auto; cursor: pointer;">
+</a>
+
+> El libro **Testing en .NET** ya está disponible.
+
+No es otro libro de testing lleno de recetas mágicas: es una guía pensada para programadores que quieren tocar código sin miedo.
+
+En estas páginas encontrarás un recorrido práctico, desde los fundamentos hasta técnicas avanzadas de testing en .NET, con ejemplos reales, criterios de diseño, TDD, BDD y automatización aplicada al día a día de equipos de desarrollo. El foco no está en la herramienta, sino en cómo pensar y diseñar pruebas que generen confianza, sean rápidas y se mantengan en el tiempo.
+
+<a href="https://a.co/d/eY75l4q" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--large">Comprar en Amazon</a>
+
 # Documentación de Ejemplos por Capítulo
 
 Esta carpeta contiene documentación detallada que relaciona los ejemplos de código con cada capítulo del libro **"Testing en .NET"**.
